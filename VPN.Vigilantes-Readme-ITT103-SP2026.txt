@@ -1,0 +1,45 @@
+
+Authors: Domonic Miller, Shemoe Collash
+Date Created: 3/4/2026
+Course: ITT103
+GitHub Public URL to Code:
+
+Program Title:
+Best Buy POS System
+
+Purpose of the Program:
+This program was developed to be  Point-of-Sale (POS) system designed to simulate a retail store checkout process . The main purpose of the program is to automate the sales transaction process . Its objective is to simulate a real retail checkout process while managing product stock and handling multiple transactions. 
+
+Program Modifications:
+1: Implementing isdigits to prevent letters from crashing the program
+
+2: Using 1  and 0 to navigate through the functions in the program and for exiting loops
+
+3
+
+How to Run the Program:
+
+Open the Python file in a Python IDE 
+Run the program.
+Follow the onscreen menu options.
+Enter the required values when prompted.
+The program will display the results based on user input.
+
+Assumptions:
+
+The user enters valid numeric input when required.
+The program runs in a Python environment.
+The product catalog is pre-defined before execution.
+
+Limitations:
+
+A limitation of the system is that entering a quantity greater than available stock causes the program to request the item number again instead of asking for a new quantity.
+
+The program does not store long term data
+
+No graphical user interface is included.
+
+
+
+“I CERTIFY THAT I HAVE NOT GIVEN OR RECEIVED ANY UNAUTHORIZED ASSISTANCE ON THIS ASSIGNMENT”.
+D.Miller
