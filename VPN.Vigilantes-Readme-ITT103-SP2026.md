@@ -2,7 +2,7 @@
 Authors: Domonic Miller, Shemoe Collash
 Date Created: 3/4/2026
 Course: ITT103
-GitHub Public URL to Code:
+GitHub Public URL to Code: https://github.com/VPN-Vigilantes
 
 Program Title:
 Best Buy POS System
